@@ -1,16 +1,23 @@
-# React + Vite
+# Diseño de Interfaces - Actividad de Clase - Actividad de clase del 19 marzo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Información de la Tarea:
 
-Currently, two official plugins are available:
+- Profesor: Selene Marisol Martínez Ramírez
+- Alumnos:
+- Trejo Maya Diego Alexander
+- Números de cuenta:
+- 424033338
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Para iniciar el programa:
 
-## React Compiler
+En la carpeta `vite-project`, ejecutar el siguiente comando:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm run dev
+```
 
-## Expanding the ESLint configuration
+Ya iniciado el programa, abrir el local host.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Archivo de interés:
+
+Revisar el archivo `App.jsx`
